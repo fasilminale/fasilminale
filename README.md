@@ -1,4 +1,3 @@
-<h1 align="center">Hi there 👋</h1>
 <!-- <img align="left" src="https://orhun.dev/img/crow.png"> -->
 
 <!-- ### Hey! -->
